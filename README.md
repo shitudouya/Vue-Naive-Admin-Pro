@@ -16,3 +16,7 @@
 **项目预览**
 
 [https://flourishing-kelpie-cb4a82.netlify.app](https://flourishing-kelpie-cb4a82.netlify.app/#/login)
+
+管理员登陆: admin && 123
+
+用户登陆: user && 123
