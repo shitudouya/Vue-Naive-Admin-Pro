@@ -17,6 +17,8 @@
 
 [https://flourishing-kelpie-cb4a82.netlify.app](https://flourishing-kelpie-cb4a82.netlify.app/#/login)
 
+> 请使用高版本浏览器浏览，不支持IE以及其它低版本浏览器
+
 管理员登陆: admin && 123
 
 用户登陆: user && 123
