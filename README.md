@@ -12,3 +12,7 @@
 + 内置主题换肤
 + 项目中集成了一种权限处理方式：通过后台返回菜单权限集合，前端固定路由，进行过滤。路由配置以及权限配置说明请查阅 [Naive UI Admin V1](https://naive-ui-admin-docs.vercel.app/) 文档
 + 更多好玩，等你发现...
+
+**项目预览**
+
+[https://flourishing-kelpie-cb4a82.netlify.app](https://flourishing-kelpie-cb4a82.netlify.app/#/login)
