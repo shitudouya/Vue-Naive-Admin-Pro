@@ -2,9 +2,9 @@
 
 > 这是一款基于Vue3 + Vite2 + Naive UI + Pinia + Tailwindcss 的轻量级后台管理模板
 
-![vue 3.0.0](https://img.shields.io/badge/vue-3.2.34-green.svg) 
-![vite 2.9.9](https://img.shields.io/badge/vite-2.9.9-yellow.svg)
-![NaiveUI 2.28.4](https://img.shields.io/badge/NaiveUI-2.28.4-blue.svg)
+![vue 3.2.37](https://img.shields.io/badge/vue-3.2.37-green.svg) 
+![vite 2.9.12](https://img.shields.io/badge/vite-2.9.12-yellow.svg)
+![NaiveUI 2.30.6](https://img.shields.io/badge/NaiveUI-2.30.6-blue.svg)
 
 + 借鉴了 [Naive Admin](https://www.naiveadmin.com/) 官方代码，使用JavaScript替换了TypeScript(对于头疼typescript的开发者们比较友好)
 + 更加自由的开发(没有引入各种ESLint，适合个人以及小团队协助开发)
